@@ -1,0 +1,167 @@
+
+@media only screen and (min-width: 556px) and (max-width: 1000px){
+    #contentt{
+        font-size: 25px;
+        margin-top: 0%;
+        margin-bottom: 0% ;
+
+    }
+    #content-row{
+        padding: 0px 21% 0px 21%;
+    }
+    #signup{
+        padding: 0% 21% 0px 21%;
+    }
+    #facebookbg{
+        background-color: #f0f2f5;
+        height: 130vh !important;
+        
+    }
+    #squaree{
+        margin-top: -20%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+}
+@media only screen and  (min-width: 1024px){
+    #contentt{
+        font-size: 25px;
+        margin-top: 0%;
+    }
+    #content-row{
+        padding-left: 30%;
+        margin-top: 0%;
+    }
+    #iamge_text{
+        margin-top: 9%;
+        margin-bottom: 0%;
+    }
+    #signup{
+        padding: 8% 21% 0px 4%;
+    }
+    
+}
+@media only screen and (max-width:556px){
+    #squaree{
+        margin-top: -4%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    #h {
+        display: none !important;
+    }
+    
+}
+
+#facebookbg{
+    background-color: #f0f2f5;
+    height: 105vh;
+    
+}
+#email_phone{
+    height: 45px;
+    border-radius: 10px;
+    margin: 5%;
+    margin-bottom: 3%;
+    border: 1px solid rgb(187, 169, 169);
+}
+
+#Pass{
+    height: 45px;
+    border-radius: 10px;
+    margin: 5%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    border: 1px solid rgb(187, 169, 169);
+
+}
+#login{
+    height: 49px;
+    border-radius: 10px;
+    margin: 5%;
+    margin-top: 1%;
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding:2%;
+    margin-bottom: 3%;
+    border: 1px solid rgb(187, 169, 169);
+
+}
+#forget{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 7%;
+    color: #1877f2;
+}
+#horizon{
+    width:95%;
+    margin-left: 8%;
+    margin-right: 15%;
+
+}
+#account{
+    height: 49px;
+    border-radius: 10px;
+    margin: 6%;
+    background-color: #42b72a;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding:2%;
+    width: 70%;
+    margin-left: 20%;
+    border: 1px solid rgb(187, 169, 169);
+
+}
+#account:hover{
+    background-color: #36a420;
+}
+#squaree{
+    background-color: white;
+    width: fit-content;
+    padding-right: 10%;
+    box-shadow: 2px 5px 5px 5px rgba(184, 176, 176, 0.7);
+    border-radius: 10px;
+    
+}
+
+#below_statement{
+    margin-top: 8%;
+    font-size: 14px;
+    margin-left: 7%;
+}
+#anchor{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right:12px;
+    font-size: smaller;
+    
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color:gray;
+
+}
+
+ul li a:hover{
+    text-decoration: underline;
+}
+#footer_list{
+    padding: 0% 14% 0% 14%;
+}
+#horizon2{
+    margin-left: 1%;
+}
+#meta{
+    color:gray;
+    font-size: smaller;
+}
